@@ -4,7 +4,7 @@
 
 ## 安卓下载 / Android download
 
-[下载最新通用 APK / Download APK](https://github.com/SunXiaoChuan781325/SiteLog-Downloads/releases/download/v1.0.0-preview.2/SiteLog-1.0.0-preview.2-universal.apk)
+[下载最新通用 APK / Download APK](https://github.com/SunXiaoChuan781325/SiteLog-Downloads/releases/download/v1.1.0-preview.1/SiteLog-1.1.0-preview.1-universal.apk)
 
 [版本说明与 SHA-256 / Release notes and checksum](https://github.com/SunXiaoChuan781325/SiteLog-Downloads/releases/tag/v1.0.0-preview.2)
 
